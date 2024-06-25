@@ -10,7 +10,7 @@ on:
       - unlabeled
     branches:
       - main
-      - develop
+    
 
 jobs:
   check-pr-status:
