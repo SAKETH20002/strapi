@@ -17,7 +17,7 @@ jobs:
 
       - name: Run shell command
         run: |
-          echo "Hello, world!"
+          echo "HI" 
           cd /home/ubuntu/strapi
           git pull origin develop
           yarn build 
